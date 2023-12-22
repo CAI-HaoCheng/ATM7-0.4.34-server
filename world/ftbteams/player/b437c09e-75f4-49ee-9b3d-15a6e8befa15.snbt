@@ -1,0 +1,18 @@
+{
+	id: "b437c09e-75f4-49ee-9b3d-15a6e8befa15"
+	type: "player"
+	player_name: "Anchon_Yu"
+	ranks: { }
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Anchon_Yu"
+		"ftbteams:color": "#59FFF2"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

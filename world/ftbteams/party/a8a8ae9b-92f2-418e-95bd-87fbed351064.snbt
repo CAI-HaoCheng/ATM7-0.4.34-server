@@ -1,0 +1,30 @@
+{
+	id: "a8a8ae9b-92f2-418e-95bd-87fbed351064"
+	type: "party"
+	owner: "b437c09e-75f4-49ee-9b3d-15a6e8befa15"
+	ranks: {
+		b437c09e-75f4-49ee-9b3d-15a6e8befa15: "owner"
+		b187f3ef-c540-46e0-b4f2-1dd419b0186a: "member"
+		6cc821cd-e333-4246-81cd-07bc52105d24: "member"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "The Dungeon in my house"
+		"ftbteams:color": "#8859FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670681058337L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Anchon_Yu\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b437c09e-75f4-49ee-9b3d-15a6e8befa15", date: 1670681058343L, text: "{\"color\":\"green\",\"text\":\"Invited darkhome\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670681072222L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"darkhome\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "b437c09e-75f4-49ee-9b3d-15a6e8befa15", date: 1670682658171L, text: "{\"text\":\"/ftbteams\"}" }
+		{ from: "b437c09e-75f4-49ee-9b3d-15a6e8befa15", date: 1670682670944L, text: "{\"color\":\"green\",\"text\":\"Invited HiddenMW\"}" }
+		{ from: "b437c09e-75f4-49ee-9b3d-15a6e8befa15", date: 1670684106654L, text: "{\"color\":\"green\",\"text\":\"Invited HiddenMW\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1670684108743L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"HiddenMW\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
