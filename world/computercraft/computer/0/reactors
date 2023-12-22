@@ -1,0 +1,11 @@
+local args = { ... }
+local programName = "reactor"
+local programCode = "NY6MU58s"
+local index = "ReactorIndex" -- replace this with the name of the file you want to create (needs to be unique)
+ 
+if (fs.exists(programName) == false or args[1] == "update") then
+    shell.run("rm " .. programName)
+    shell.run("pastebin get " .. programCode .. " " .. programName)
+end
+print("Starting Reactor Program")
+shell.run(programName .. " " .. index)
